@@ -1,2 +1,3 @@
 # PathFinder
-PathFinding best path based on 
+PathFinding based some different commonly used algorithms
+
